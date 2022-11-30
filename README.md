@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-## Hi, I’m @faiz-najm <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I’m Faiz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Software Developer Student from Telkom University. Through my formal education and self-study. I have an interest and expertise in programming.
 
@@ -15,7 +15,7 @@ Software Developer Student from Telkom University. Through my formal education a
 
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=telegram&style=social)](https://t.me/faiznajm) 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/faiz-najmuddin-5014921b1)
-[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.faiznajmuddin123@gmail.com)
+[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:faiznajmuddin123@gmail.com)
 
 🌐 **Visit my other profiles**
 
