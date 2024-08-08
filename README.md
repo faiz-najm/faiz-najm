@@ -17,12 +17,6 @@ Software Developer Student from Telkom University. Through my formal education a
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/faiz-najmuddin-5014921b1)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:faiznajmuddin123@gmail.com)
 
-🌐 **Visit my other profiles**
-
-[![Kaggle](https://img.shields.io/badge/--kaggle?label=Kaggle&logo=kaggle&style=social)](https://www.kaggle.com/)
-[![Tableau Public](https://img.shields.io/badge/--tableau?label=Tableau&logo=tableau&style=social)](https://public.tableau.com/app/profile/)
-[![HackerRank](https://img.shields.io/badge/--hackerrank?label=HackerRank&logo=hackerrank&style=social)](https://www.hackerrank.com/)
-
 <details close>
 <summary>:zap: GitHub Statistics</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=faiz-najm&show_icons=true&theme=nord" width="400px">
