@@ -14,8 +14,8 @@ Software Developer Student from Telkom University. Through my formal education a
 📫 **How to reach me**
 
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=telegram&style=social)](https://t.me/faiznajm) 
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/faiz-najmuddin-5014921b1)
-[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:faiznajmuddin123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/fznajm)
+[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.faiznajmuddin@gmail.com)
 
 <details close>
 <summary>:zap: GitHub Statistics</summary>
